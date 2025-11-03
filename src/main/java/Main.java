@@ -13,7 +13,7 @@ public class Main {
         //Dieses Array wird mit einem Sortieralgorithmus sortiert
         //Optimaler Code Yippie
 
-        factory.buildCar(car2);
+        factory.buildCar(car4);
         factory.buildCar(car3);
 
     }
